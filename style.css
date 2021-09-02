@@ -1,0 +1,41 @@
+*{
+    font: 20px sans-serif;
+}
+
+.navbar {
+    background-color: rgb(103, 0, 124);
+}
+
+section .container-fluid{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: yellow;
+    color:rgb(103, 0, 124);
+}
+
+.parceiros{
+    padding: 30px;
+    background-color: rgb(103, 0, 124);
+    color:yellow;
+}
+
+#servicos{
+    background-color: yellow;
+    color:rgb(103, 0, 124);
+}
+.servicos{
+    justify-content: center;
+    padding: 10px 30px 5px 30px;
+}
+
+footer .container-fluid{
+    background-color: rgb(103, 0, 124);
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    color:yellow;
+}
+
+footer .container-fluid p{
+    margin: 0
+}
